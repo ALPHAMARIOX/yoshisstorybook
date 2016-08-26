@@ -1,0 +1,9 @@
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\bin\Debug\YoshisStoryBookDesigner.exe.config
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\bin\Debug\YoshisStoryBookDesigner.exe
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\bin\Debug\YoshisStoryBookDesigner.pdb
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\obj\Debug\YoshisStoryBookDesigner.csprojResolveAssemblyReference.cache
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\obj\Debug\YoshisStoryBookDesigner.frmMain.resources
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\obj\Debug\YoshisStoryBookDesigner.Properties.Resources.resources
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\obj\Debug\YoshisStoryBookDesigner.csproj.GenerateResource.Cache
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\obj\Debug\YoshisStoryBookDesigner.exe
+D:\Projects\YoshisStoryBookDesigner\YoshisStoryBookDesigner\obj\Debug\YoshisStoryBookDesigner.pdb
